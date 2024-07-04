@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ben Goldberger</h1>
 <h3 align="center">A passionate Full Stack Developer and 3D Generalist from Givatayim.</h3>
 
+- 🚩 Last Project [airstay](https://airstay-kybr.onrender.com/)
+
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ben-goldberger-290b8b23a/](https://www.linkedin.com/in/ben-goldberger-290b8b23a/)
 
 - 📫 How to reach me **bengold1999@gmail.com**
-
-- 🚩 Last Project [airstay](https://airstay-kybr.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

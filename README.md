@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben Goldberger</h1>
-<h3 align="center">A passionate Full Stack Developer and 3D Generalist from Givatayim.</h3>
+<h3 align="center">A passionate Full Stack Developer and Tech Artist</h3>
 
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ben-goldberger-290b8b23a/](https://www.linkedin.com/in/ben-goldberger-290b8b23a/)
